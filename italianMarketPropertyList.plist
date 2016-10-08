@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item 0</key>
+	<dict>
+		<key>lat</key>
+		<real>39.938691</real>
+		<key>long</key>
+		<real>-75.157771</real>
+		<key>no</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Anthony&apos;s Coffee House</string>
+	</dict>
+	<key>Item 1</key>
+	<dict>
+		<key>lat</key>
+		<real>39.938595</real>
+		<key>long</key>
+		<real>-75.15773</real>
+		<key>no</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>D&apos;Angelo Bros</string>
+	</dict>
+	<key>Item 2</key>
+	<dict>
+		<key>lat</key>
+		<real>39.938041</real>
+		<key>long</key>
+		<real>-75.158226</real>
+		<key>no</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>Di Bruno Bros</string>
+	</dict>
+	<key>Item 3</key>
+	<dict>
+		<key>lat</key>
+		<real>39.93772</real>
+		<key>long</key>
+		<real>-75.15826300000001</real>
+		<key>no</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>Talluto&apos;s</string>
+	</dict>
+	<key>Item 4</key>
+	<dict>
+		<key>lat</key>
+		<real>39.937681</real>
+		<key>long</key>
+		<real>-75.157979</real>
+		<key>no</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>Grassia’s Spice Company</string>
+	</dict>
+	<key>Item 5</key>
+	<dict>
+		<key>lat</key>
+		<real>39.937373</real>
+		<key>long</key>
+		<real>-75.15834599999999</real>
+		<key>no</key>
+		<integer>6</integer>
+		<key>title</key>
+		<string>Fante&apos;s</string>
+	</dict>
+	<key>Item 6</key>
+	<dict>
+		<key>lat</key>
+		<real>39.937179</real>
+		<key>long</key>
+		<real>-75.158052</real>
+		<key>no</key>
+		<integer>7</integer>
+		<key>title</key>
+		<string>Darigo&apos;s Fish Market</string>
+	</dict>
+	<key>Item 7</key>
+	<dict>
+		<key>lat</key>
+		<real>39.937135</real>
+		<key>long</key>
+		<real>-75.158062</real>
+		<key>no</key>
+		<integer>8</integer>
+		<key>title</key>
+		<string>Paesano&apos;s</string>
+	</dict>
+	<key>Item 8</key>
+	<dict>
+		<key>lat</key>
+		<real>39.936456</real>
+		<key>long</key>
+		<real>-75.158237</real>
+		<key>no</key>
+		<integer>9</integer>
+		<key>title</key>
+		<string>Giordano&apos;s</string>
+	</dict>
+	<key>Item 9</key>
+	<dict>
+		<key>lat</key>
+		<real>39.934391</real>
+		<key>long</key>
+		<real>-75.158986</real>
+		<key>no</key>
+		<integer>10</integer>
+		<key>title</key>
+		<string>RIM Cafe</string>
+	</dict>
+	<key>Item 10</key>
+	<dict>
+		<key>lat</key>
+		<real>39.933799</real>
+		<key>long</key>
+		<real>-75.1588</real>
+		<key>no</key>
+		<integer>11</integer>
+		<key>title</key>
+		<string>Geno&apos;s</string>
+	</dict>
+	<key>Item 11</key>
+	<dict>
+		<key>lat</key>
+		<real>39.933197</real>
+		<key>long</key>
+		<real>-75.159262</real>
+		<key>no</key>
+		<integer>12</integer>
+		<key>title</key>
+		<string>Pat&apos;s</string>
+	</dict>
+	<key>Item 12</key>
+	<dict>
+		<key>lat</key>
+		<real>39.933486</real>
+		<key>long</key>
+		<real>-75.158732</real>
+		<key>no</key>
+		<integer>13</integer>
+		<key>title</key>
+		<string>Satellite Auto Body</string>
+	</dict>
+	<key>Item 13</key>
+	<dict>
+		<key>lat</key>
+		<real>39.933049</real>
+		<key>long</key>
+		<real>-75.159717</real>
+		<key>no</key>
+		<integer>14</integer>
+		<key>title</key>
+		<string>Community Garden</string>
+	</dict>
+</dict>
+</plist>
